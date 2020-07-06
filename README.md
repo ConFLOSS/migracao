@@ -17,7 +17,7 @@ Neste momento, em virtude do prazo, estamos considerando apenas as questões rel
 ## Requisitos - Transmissão
 
 - [ ] 4 "Salas" de Transmissão, que devem acontecer simultaneamente;
-- [ ] Cada uma das 4 Salas deverá suportar um limite total de 250 pessoas, totalizando um limite total de 1000 participantes no evento;
+- [ ] Cada uma das 4 Salas deverá suportar um limite total de 250 pessoas, resultando em um limite total de 1000 participantes no evento;
 - [ ] Deverá ser possível transmitir um conteúdo único para as 4 Salas, simultaneamente; 
 - [ ] O conteúdo transmitido deverá ficar gravado, automaticamente, para posterior processamento/edição/liberação;
 - [ ] As transmissões deverão poder ser agendadas previamente, gerando um link permanente;
@@ -25,3 +25,9 @@ Neste momento, em virtude do prazo, estamos considerando apenas as questões rel
 - [ ] Perguntas ("Q&A") via chat;
 - [ ] Possibilidade de desativar microfone de participantes;
 - [ ] Possibilidade do(a) palestrante de compartilhar sua tela.
+
+Uma vez mais devido ao prazo, é impossível exaurir **todos** os requisitos aqui, sendo que alguns são implícitos pelo que o mercado realiza como praxe para certas questões (p.Ex.: autenticação de e-mail/senha traz consigo, implicitamente, mecanismo de recuperação de senha, etc...).
+
+## Contatos/Dúvidas/Demais questionamentos
+
+- Er Galvão Abbott <galvao@confloss.com.br>
